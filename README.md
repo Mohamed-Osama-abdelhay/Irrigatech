@@ -1,4 +1,4 @@
-## Irrigatech
+## Irrigatech (AI-powered Smart Agriculture & Irrigation System)  
 
 This project demonstrates communication between multiple microcontrollers using a Master-Slave architecture with Arduinos and an ESP32. It is designed for applications such as sensor networks, automation systems, or distributed control systems where different microcontrollers must cooperate.
 
